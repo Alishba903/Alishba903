@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Alishba
-- 👀 I’m interested in coding
+- 👀 CS student with an appetite for everything—code, creativity, chaos.
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on OpenSource, Hackathons
+- 💞️ Exploring open-source synergy and hackathon energy.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her — but I code like a rebel.
+- ⚡ Fun fact: Tea? Coffee? I politely decline.
 
 <!---
 Alishba903/Alishba903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
