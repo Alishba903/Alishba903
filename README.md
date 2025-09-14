@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alishba.
-- 👀 CS student with an appetite for everything—code, creativity, chaos.
+- 👀 Computer Science student with an appetite for everything—code, creativity, chaos.
 - 🌱 I’m currently learning MERN.
 - 💞️ Exploring open-source synergy and hackathon energy.
 - 📫 How to reach me ....
