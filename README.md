@@ -1,37 +1,22 @@
-# Hi there, I'm Alishba 👋
+# Hey, I'm Alishba 👋
 
-### 💻 About Me
+```js
+const alishba = {
+  role: "Computer Science Student",
+  learning: ["MongoDB", "Express.js", "React", "Node.js"],
+  building: "Projects that turn ideas into reality",
+  interests: ["Web Development", "Open Source", "Problem Solving"],
+  goal: "To become a skilled full-stack developer and build impactful software",
+  funFact: "Tea and coffee are both optional dependencies."
+};
+```
 
-* 🎓 Computer Science Student
-* 🌱 Currently learning **MERN Stack Development**
-* 🚀 Passionate about building projects and improving my problem-solving skills
-* 📚 Exploring Web Development, Open Source, and Software Engineering
-* 🏗️ Turning ideas into practical applications, one project at a time
+🌱 Currently learning the MERN Stack
 
-### 🔧 Tech Stack
+🚀 Building projects and improving my development skills every day
 
-* Frontend: HTML, CSS, JavaScript
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* Tools: Git, GitHub, VS Code
+💡 Interested in web development, open source, and hackathons
 
-### 🎯 Current Goals
+📚 Believer in learning by building
 
-* Master Full-Stack Development
-* Contribute to Open Source Projects
-* Build a strong portfolio of real-world applications
-* Participate in Hackathons and Coding Challenges
-
-### 📫 Connect With Me
-
-* GitHub: Alishba903
-
-### ⚡ Fun Fact
-
-I don't drink tea or coffee—my source code runs on determination alone. 😄
-
-
-<!---
-Alishba903/Alishba903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Powered by curiosity, consistency, and late-night debugging
