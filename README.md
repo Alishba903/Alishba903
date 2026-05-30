@@ -3,20 +3,20 @@
 ```js
 const alishba = {
   role: "Computer Science Student",
-  learning: ["MongoDB", "Express.js", "React", "Node.js"],
+  learning: ["JavaScript", "Node.js", "Web Development"],
   building: "Projects that turn ideas into reality",
-  interests: ["Web Development", "Open Source", "Problem Solving"],
-  goal: "To become a skilled full-stack developer and build impactful software",
+  interests: ["Programming", "Problem Solving", "Open Source"],
+  goal: "To become a skilled developer and build impactful software",
   funFact: "Tea and coffee are both optional dependencies."
 };
 ```
 
-🌱 Currently learning the MERN Stack
+🌱 Currently learning the Web development
 
-🚀 Building projects and improving my development skills every day
+🚀uilding projects and improving my problem-solving skills
 
-💡 Interested in web development, open source, and hackathons
+💡 Interested in web development, software engineering, open source, and hackathons
 
-📚 Believer in learning by building
+📚 Learning by building, breaking, and fixing things
 
 ⚡ Powered by curiosity, consistency, and late-night debugging
