@@ -13,7 +13,7 @@ const alishba = {
 
 🌱 Currently learning the Web development
 
-🚀uilding projects and improving my problem-solving skills
+🚀 Building projects and improving my problem-solving skills
 
 💡 Interested in web development, software engineering, open source, and hackathons
 
